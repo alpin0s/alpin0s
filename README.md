@@ -1,12 +1,17 @@
-<h1 align="center">Konstantin Ivanov · alpinos</h1>
+<!-- Hero image -->
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Petersburg%2C_Russia%2C_Panoramic_view.jpg?width=1200"
+       alt="Saint Petersburg panoramic view over the Neva River" />
+</p>
+
+<h1 align="center">Konstantin Ivanov · alpinos&lt;3</h1>
 <p align="center">
   ML Engineer @ ITMO (BSc AI Engineering, 2025–2029)
 </p>
 
 <p align="center">
-  <a href="mailto:kostyaivanov353@gmail.com"><img src="https://img.shields.io/badge/Email-kostyaivanov353%40gmail.com-red?logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/Alpinos"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Location-Saint--Petersburg-0A66C2">
+  <a href="https://t.me/Alpinos"><img src="https://img.shields.io/badge/Telegram-@Alpinos-2CA5E0?logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <img src="https://img.shields.io/badge/Location-Saint--Petersburg-0A66C2" alt="Location"/>
 </p>
 
 ---
@@ -16,10 +21,10 @@ Practical ML engineer focused on **Computer Vision**, **LLM/RAG**, and **Reinfor
 I value clean baselines, measurable progress, and small demos that actually run.
 
 **Highlights**
-- **AI Challenge 2025 — 5th place** (RL / Ising model): PPO agent, reward shaping, stability checks.  
+- **Sirius AI — winner (Yandex & HSE track, 2024)**: real-estate analytics with CNN and a curated dataset; data cleaning and validation.  
 - **AI Challenge 2024 — prize**: data collection (Stepik), aspect extraction, fine-tuned **RoBERTa-Large**, zero-shot sentiment with **Qwen 2.5**.  
-- **Sirius AI — winner**: real-estate analytics with CNN and a small curated dataset.  
-- 10+ hackathons: from baseline to working demo in 24–48h (ML core + simple API/bot, Docker).
+- **10+ hackathons**: from baseline to working demo in 24–48h (ML core + simple API/bot, Docker).  
+- **AI Challenge 2025 — 5th place** (RL / Ising model): PPO agent, reward shaping, training-stability checks.
 
 **Selected projects**
 - **Telegram Chat Summarizer & Q&A (RAG + LLM)** — semantic search over chat history, answers with citations/links, daily digests.  
@@ -32,34 +37,69 @@ I value clean baselines, measurable progress, and small demos that actually run.
 ---
 
 ## 🇷🇺 О себе
-Занимаюсь прикладными задачами **CV / LLM/RAG / RL**. Ставлю метрику, поднимаю понятный baseline, довожу до рабочего демо.
+Работаю с прикладными задачами **CV / LLM-RAG / RL**. Ставлю метрику, поднимаю понятный baseline, обеспечиваю воспроизводимость и довожу до небольшого рабочего демо.
 
 **Ключевые результаты**
-- **AI Challenge 2025 — 5-е место** (RL / модель Изинга): PPO-агент, настройка наград, контроль стабильности.  
+- **Сириус ИИ — победитель (трек Яндекса и ВШЭ, 2024)**: аналитика недвижимости на CNN; свой небольшой датасет, чистка и валидация.  
 - **AI Challenge 2024 — призёр**: сбор данных (Stepik), aspect extraction, дообучение **RoBERTa-Large**, zero-shot на **Qwen 2.5**.  
-- **Сириус ИИ — победитель**: аналитика недвижимости, CNN, свой небольшой датасет.  
-- 10+ хакатонов: от baseline до демо за 24–48 часов (ML-ядро + API/бот, Docker).
+- **10+ хакатонов**: от baseline до демо за 1–2 дня (ML-ядро + API/бот, Docker).  
+- **AI Challenge 2025 — 5-е место** (RL / модель Изинга): PPO-агент, настройка наград, контроль стабильности обучения.
 
 **Проекты**
 - **Telegram Chat Summarizer & Q&A (RAG + LLM)** — ответы по истории чата с цитатами и ссылками, ежедневные дайджесты.  
   _Стек:_ Python, FAISS, Transformers, FastAPI, Docker, TG Bot API.
 - **YOLO Crack Detector** — детекция дефектов: аугментации, обучение YOLOv8, инференс.  
   _Стек:_ Python, Ultralytics, Albumentations, OpenCV.
-- **AIOps Toolkit** — прогноз временных рядов (Prophet), кластеризация логов (TF-IDF + KMeans), отчёты через **RAG + LLM**.  
+- **AIOps Toolkit** — прогнозы временных рядов (Prophet), кластеризация логов (TF-IDF + KMeans), отчёты через **RAG + LLM**.  
   _Стек:_ Python, scikit-learn, FastAPI, Docker.
 
 ---
 
-## Tech stack
-<p align="left">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-</p>
+## Tech stack (detailed)
+
+**Languages**
+- Python (core, typing, packaging), Bash  
+- Basic C/C++, SQL
+
+**ML / DL**
+- PyTorch (Lightning basics), scikit-learn, CatBoost, LightGBM, XGBoost  
+- Experiment tracking & eval: MLflow (light), Weights & Biases (basic), clear metrics/validation
+
+**Computer Vision**
+- YOLOv5/v8 (Ultralytics), OpenCV, Albumentations  
+- Datasets: label formats (YOLO/COCO), small custom datasets, augmentation pipelines
+
+**NLP / LLM**
+- HuggingFace Transformers / Datasets  
+- Fine-tuning & inference: RoBERTa(-Large), Qwen 2.5 (zero-/few-shot)  
+- RAG: FAISS (ANN), chunking, retrieval pipelines, prompt design & grounding, citation-style answers
+
+**Reinforcement Learning**
+- PPO (cleanrl/baselines-style), reward shaping, stability checks/early stopping  
+- Simple custom envs (gymnasium basics), logging of returns & losses
+
+**Time Series / AIOps**
+- Prophet (forecasts), classical features, anomaly hints  
+- TF-IDF + KMeans for log clustering, pattern search
+
+**Data / ETL**
+- Pandas, NumPy, Polars (basic), PyArrow, Parquet/CSV  
+- Data cleaning, small-scale feature engineering, sanity checks
+
+**Serving / Backend**
+- FastAPI (REST), simple auth/middlewares, Pydantic models  
+- Telegram Bot API (python-telegram-bot / aiogram basics)  
+- CLI tools for inference/batch jobs
+
+**MLOps / Infra**
+- Docker (multi-stage, slim images), docker-compose  
+- Reproducible runs, seeds, minimal Makefile scripts  
+- Git (branching, rebase, PR/merge flow), pre-commit hooks (black/ruff basic)
+
+**Dev / QA / Other**
+- Jupyter/VS Code, matplotlib/plotly (viz), basic pytest  
+- Linux (Ubuntu), systemd services (very basic), environment management (venv/conda)  
+- Docs: clear README, run commands, .env templates
 
 ---
 
@@ -72,9 +112,12 @@ I value clean baselines, measurable progress, and small demos that actually run.
 ---
 
 ## Contacts
-- Telegram: <a href="https://t.me/Alpinos">@Alpinos</a>  
-- Email: <a href="mailto:kostyaivanov353@gmail.com">kostyaivanov353@gmail.com</a>
+- Telegram: <a href="https://t.me/Alpinos">@Alpinos</a>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="typing cat" width="320"/>
 </p>
+
+---
+
+<sub>Header photo: © Vyacheslav Argenberg — “Saint Petersburg, Russia, Panoramic view” (CC BY 4.0). Source: Wikimedia Commons.</sub>
