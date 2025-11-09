@@ -22,12 +22,12 @@ I value clean baselines, measurable progress, and small demos that actually run.
 
 **Highlights**
 - **[AI Challenge 2024](https://github.com/zabojeb/AIIJC-2024) — winner.** Data collection (Stepik), aspect extraction, fine-tuned **RoBERTa-Large**, zero-/few-shot sentiment with **Qwen 2.5**, prompt evaluation.  
-- **Sirius AI — winner (Yandex & HSE track, 2024).** Real-estate analytics with CNN and a curated dataset; data cleaning and validation.  
+- **[Sirius AI](https://sochisirius.ru/obuchenie/distant/smena1758/8141) — winner (Yandex & HSE track, 2024).** Real-estate analytics with CNN and a curated dataset; data cleaning and validation.  
 - **[AI Challenge 2025](https://github.com/ColleaguesTeam/IzingRL_AIIJC2025) — 5th place (RL / Ising model).** PPO agent, reward shaping, training-stability checks.  
 - **10+ hackathons.** From baseline to working demo in 24–48h (ML core + compact demos, Docker).
 
 **Selected projects**
-- **Telegram Chat Summarizer & Q&A (RAG + LLM)** — semantic search over chat history, answers with citations/links, daily digests.  
+- **[Telegram Chat Summarizer & Q&A (RAG + LLM)](https://github.com/alpin0s/summary_itmo_bot1)** — semantic search over chat history, answers with citations/links, daily digests.  
   _Stack:_ Python, FAISS, Transformers, Docker.
 - **YOLO Crack Detector** — defect detection on a small custom dataset; augmentations, YOLOv8 training, inference CLI.  
   _Stack:_ Python, Ultralytics, Albumentations.
