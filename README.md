@@ -21,9 +21,9 @@ Practical ML engineer focused on **Computer Vision**, **LLM/RAG**, and **Reinfor
 I value clean baselines, measurable progress, and small demos that actually run.
 
 **Highlights**
-- **AI Challenge 2024 — winner.** Data collection (Stepik), aspect extraction, fine-tuned **RoBERTa-Large**, zero-/few-shot sentiment with **Qwen 2.5**, prompt evaluation.  
+- **[AI Challenge 2024](https://github.com/zabojeb/AIIJC-2024) — winner.** Data collection (Stepik), aspect extraction, fine-tuned **RoBERTa-Large**, zero-/few-shot sentiment with **Qwen 2.5**, prompt evaluation.  
 - **Sirius AI — winner (Yandex & HSE track, 2024).** Real-estate analytics with CNN and a curated dataset; data cleaning and validation.  
-- **AI Challenge 2025 — 5th place (RL / Ising model).** PPO agent, reward shaping, training-stability checks.  
+- **[AI Challenge 2025](https://github.com/ColleaguesTeam/IzingRL_AIIJC2025) — 5th place (RL / Ising model).** PPO agent, reward shaping, training-stability checks.  
 - **10+ hackathons.** From baseline to working demo in 24–48h (ML core + compact demos, Docker).
 
 **Selected projects**
